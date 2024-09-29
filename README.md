@@ -14,6 +14,10 @@ The dataset used in this project is the Mall Customers dataset obtained from Kag
 
 Link: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data
 
+## Objective
+The goal of using SOM is to identify different clusters of customers based on their annual income and spending score, and provide insights into their purchasing behavior, helping the business with targeted marketing strategies.
+
+
 ## Software Requirements
 - Python 3.x
 - Required libraries:
